@@ -1,7 +1,9 @@
 #include<iostream>
 using namespace std;
 int main(){
-int a=2,b=2,c=a+b;
-cout<<c<<endl;
+int a=,b=,sum =a + b;
+cout<<enter two number<<endl;
+cin>>number>>endl;
+
 return 0;
 }
